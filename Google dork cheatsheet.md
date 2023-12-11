@@ -93,3 +93,34 @@ Putting an asterisk in a search tells Google ‘I don’t know what goes  here�
 ```
 site:*.com
 ```
+
+
+#### Specific time period
+
+the following is added to the URL
+
+past hour
+```
+&tbs=qdr:h
+```
+past 24 hours (day)
+```
+&tbs=qdr:d
+```
+past week
+```
+&tbs=qdr:w
+```
+past month
+```
+&tbs=qdr:m
+```
+past year
+```
+&tbs=qdr:y
+```
+
+example, this will give search results for up to maximum last year only
+```
+https://www.google.com/?&tbs=qdr:y
+```
