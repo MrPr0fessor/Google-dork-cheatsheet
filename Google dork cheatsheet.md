@@ -122,5 +122,5 @@ past year
 
 example, this will give search results for up to maximum last year only
 ```
-https://www.google.com/webhp?&tbs=qdr:y
+https://www.google.com/?&tbs=qdr:y
 ```
